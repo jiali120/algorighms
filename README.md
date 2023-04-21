@@ -1,5 +1,6 @@
 # algorighms
 
+* Search
 1. Linear Search / Sequential Search
 2. Jump Search / Block Search
 3. Binary Search
